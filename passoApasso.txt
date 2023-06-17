@@ -1,0 +1,16 @@
+1 ° Abrir programa (liga das lendas)
+2 ° Colocar nome de usuario
+3 ° Colocar senha
+4 ° Entrar
+5 ° apertar em jogar
+6 ° Vai clicar em perfil
+7 ° Vai abrir um bloco de notas
+8 ° Vai escrever "low elo"
+9 ° Vai retornar ao perfil
+10 ° vai clicar "buscar invocador"
+11 ° vai digitar o nick de invocador "ImNuubz"
+12 ° vai reabrir o bloco de notas
+13 ° vai digitar "Muito low Elo"
+14 ° vai aguardar 5 minutos
+15 ° vai fechar o cliente
+16 ° vai confimar pra fechar
